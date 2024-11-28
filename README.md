@@ -1,6 +1,5 @@
 # **Vacina Pet**
 
-![Logo](https://via.placeholder.com/150) <!-- Substitua pelo logo do projeto, se houver -->
 
 **Vacina Pet** é um aplicativo mobile desenvolvido para ajudar tutores de animais a gerenciar as vacinas dos seus pets de forma prática e organizada. Ele permite adicionar informações sobre os animais, registrar vacinas, receber notificações de lembrete e manter o histórico de saúde atualizado.
 
